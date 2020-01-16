@@ -1,4 +1,4 @@
-Atmospherioc correction in the visible spectrum
+Atmospheric correction in the visible spectrum
 -----------------------------------------------
 
 .. figure:: _static/truecolor_composite_20170518_nrk_reception_cropped_thumb.png
